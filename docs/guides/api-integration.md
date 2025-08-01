@@ -527,9 +527,9 @@ def monitor_api_call(prompt, workflow):
 ## Additional Resources
 
 - [Workflow Requirements](../workflows/README.md) - Understand configuration needs
-- [Configuration Guide](/getting-started/configuration) - Detailed setup instructions
+- [Configuration Guide](../getting-started/configuration.md) - Detailed setup instructions
 - [Custom Agents](../extensions/custom-agents.md) - Create your own workflows
-- [Troubleshooting](/troubleshooting/) - Common issues and solutions
+- [Troubleshooting](../troubleshooting/README.md) - Common issues and solutions
 
 ---
 
