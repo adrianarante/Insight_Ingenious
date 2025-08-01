@@ -497,7 +497,7 @@ flowchart TD
 5. **Monitor**: Track performance and optimize as needed
 
 For detailed setup instructions, see:
-- [Configuration Guide](/getting-started/configuration) - Complete setup instructions
-- [Getting Started](/getting-started/) - Quick start tutorial
-- [Development Guide](/development/) - Advanced customization
-- [API Documentation](/api/) - Integration details
+- [Configuration Guide](../getting-started/configuration.md) - Complete setup instructions
+- [Getting Started](../getting-started/README.md) - Quick start tutorial
+- [Development Guide](../development/README.md) - Advanced customization
+- [API Documentation](../api/README.md) - Integration details
