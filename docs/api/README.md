@@ -320,7 +320,7 @@ The Insight Ingenious API provides powerful endpoints for creating and managing 
 - **Content-Type**: `application/json`
 - **Authentication**: JWT Bearer Token (configurable - disabled by default)
 
-### [Workflow API](/api/workflows)
+### [Workflow API](./WORKFLOWS.md)
 Complete documentation for all available workflow endpoints, including:
 - Classification and routing workflows
 - Multi-agent bike sales analysis (template workflow)
@@ -906,13 +906,13 @@ Example error response:
 
 ## Additional Resources
 
-- [Workflow API Documentation](/api/workflows)
-- [Configuration Guide](/getting-started/configuration)
-- [Development Setup](/development/)
-- [CLI Reference](/CLI_REFERENCE)
+- [Workflow API Documentation](./WORKFLOWS.md)
+- [Configuration Guide](../getting-started/configuration.md)
+- [Development Setup](../development/README.md)
+- [CLI Reference](../CLI_REFERENCE.md)
 
 ## Need Help?
 
-- Check the [troubleshooting guide](/troubleshooting/)
-- Review the [workflow examples](/api/workflows)
+- Check the [troubleshooting guide](../troubleshooting/README.md)
+- Review the [workflow examples](./WORKFLOWS.md)
 - Open an issue on [GitHub](https://github.com/Insight-Services-APAC/ingenious/issues)
