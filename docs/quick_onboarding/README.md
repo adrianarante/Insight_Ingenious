@@ -66,10 +66,10 @@ Insight Ingenious is an enterprise-grade Python library for building AI agent AP
 
 ## Next Steps
 
-- [Detailed Getting Started Guide](../getting-started/)
-- [Configuration Guide](/getting-started/configuration)
-- [API Integration Guide](../guides/api-integration/)
-- [Development Guide](../development/)
+- [Detailed Getting Started Guide](../getting-started/README.md)
+- [Configuration Guide](../getting-started/configuration.md)
+- [API Integration Guide](../guides/api-integration.md)
+- [Development Guide](../development/README.md)
 
 ## Common Tasks
 
@@ -90,6 +90,6 @@ tail -f server.log
 
 ## Getting Help
 
-- [Troubleshooting Guide](../troubleshooting/)
-- [CLI Reference](/CLI_REFERENCE)
-- [API Documentation](../api/)
+- [Troubleshooting Guide](../troubleshooting/README.md)
+- [CLI Reference](../CLI_REFERENCE.md)
+- [API Documentation](../api/README.md)
