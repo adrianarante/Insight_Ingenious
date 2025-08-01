@@ -726,7 +726,7 @@ flowchart TD
 
 ## Next Steps
 
-- Read the [Architecture Guide](/architecture/) for system design
-- Check the [Configuration Guide](/getting-started/configuration/) for setup
-- Try the [Getting Started Guide](/getting-started/) for quick setup
-- Explore the [API Documentation](/api/) for integration
+- Read the [Architecture Guide](../architecture/README.md) for system design
+- Check the [Configuration Guide](../getting-started/configuration.md) for setup
+- Try the [Getting Started Guide](../getting-started/README.md) for quick setup
+- Explore the [API Documentation](../api/README.md) for integration
